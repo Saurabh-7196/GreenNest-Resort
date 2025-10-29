@@ -18,9 +18,9 @@ import gym from "../assets/services/gym.jpg";
 import hall from "../assets/services/hall.jpg";
 import spa from "../assets/services/spa.jpg";
 import wifi from "../assets/services/wifi.jpg";
-import playzone from "../assets/services/playzone.jpgg";
-import jacuzzi from "../assets/services/jacuzzi.jpg";
-import roomservice from "../assets/services/roomservice.jpg"
+import playzone from "../assets/services/playzones.jpg";
+import jacuzzi from "../assets/services/jacuzzii.jpg";
+import roomservice from "../assets/services/roomservices.jpg"
 
 const serviceCategories = [
   {
