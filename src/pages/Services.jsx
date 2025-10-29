@@ -20,7 +20,7 @@ import spa from "../assets/services/spa.jpg";
 import wifi from "../assets/services/wifi.jpg";
 import playzone from "../assets/services/playzone.jpg";
 import jacuzzi from "../assets/services/jacuzzi.jpg";
-import roomservice from "../assets/services/roomservice.jpg";
+import roomservice from "../assets/services/roomservice.jpg"
 
 const serviceCategories = [
   {
